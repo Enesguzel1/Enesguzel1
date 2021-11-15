@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enesguzel1
+- 👋 Hi, I’m Enes GÜZEL
 - 👀 I’m interested in software
 - 🌱 I’m currently learning JAVA programing language
 - 💞️ I’m looking to collaborate on ...
