@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Enes GÜZEL
-- 👀 I’m interested in software
-- 🌱 I’m currently learning JAVA programing language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Android development
+- 🌱 I’m currently developing myself on Android Studio
 - 📫 Contact information: enesguzel4601@outlook.com
 
 <!---
